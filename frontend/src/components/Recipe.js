@@ -14,7 +14,7 @@ const Recipe = ({imageUrl, name, ingredients, description, time, recipeId}) => {
 
         <p className="info__description">{description}</p>
 
-        <p className="info__time">{time}</p>
+        <p className="info__time"><b>{time}</b> минут</p>
 
         <Link to={`/recipe/${recipeId}`} className="info__button">
           Показать

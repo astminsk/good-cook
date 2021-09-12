@@ -50,7 +50,11 @@
     color: #f4f4f4;
   }
 
-  .favorite__link__two:hover {
+  .recipes__link:hover {
+    color: #dd219e;
+  }
+
+  .contacts__link:hover {
     color: #dd219e;
   }
   
