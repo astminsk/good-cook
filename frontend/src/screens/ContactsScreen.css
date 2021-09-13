@@ -1,0 +1,15 @@
+.contactsscreen {
+    color: #777;
+    font-size: 1.4rem;
+    cursor: pointer;
+    padding: 1.5rem 1rem;
+
+}
+
+@media (max-width: 500px) {
+    .contactsscreen {
+        font-size: 1.1rem;
+        padding: 1.1rem 1.1rem;
+    
+    }
+  }
