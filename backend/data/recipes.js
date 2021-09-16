@@ -48,6 +48,22 @@ const recipes = [
         imageUrl:"https://www.theflavorbender.com/wp-content/uploads/2019/11/Salted-Caramel-Sauce-5044-699x1047.jpg",
 
     },
+    {
+        name: "Рис жасмин или басмати",
+        ingredients:"Рис 500 г, Масло растительное 75 г, Соль 11 г, Вода 900 г",
+        description:"Рис следует просмотреть на наличие грязи. Не промывая следует обжарить в кастрюле для варки с добавлением растительного масла. Посолить, при желании можно добавить специи - куркума, карри и т д. Залить рис кипятком. Накрыть крышкой и уменьшить температуру до минимума. Варить до готовности около 20 минут",
+        time:"20",
+        imageUrl:"https://i2.wp.com/fb.ru/misc/i/gallery/7096/2309701.jpg",
+
+    },
+    {
+        name: "Булгур с горошком",
+        ingredients:"Булгур 450 г, Масло растительное 70 г, Соль по вкусу, Куркума по вкусу, Кориандр молотый по вкусу, Вода (кипяток) 900 г, Горох (замороженный) 300 г",
+        description:"Булгур сперва следует просмотреть на наличие грязи, затем не промывая обжарить в кастрюле для варки с добавлением растительного масла. Перед кипятком, добавить специи, соль и хорошо перемешать. Залить кипятком и накрыть крышкой. Варить 20 минут. Перемешать, оставить под крышкой еще на 5 минут. Горошек разморозить, загрузить в кипящую воду и варить около трех минут после закипания. Слить воду с гороха, смешать с булгуром",
+        time:"20",
+        imageUrl:"https://1.bp.blogspot.com/COlFqjKL1xPzkBoMS6KlQ0UIbxbM73CC3WPrVZXyOl0gjXZ9kUMuKavCtvWPDIJTD6QEq1-cVrY2_SiMkllThGLKsztOwlqSOt-hy5AHRj3MqCm7NmduJ3YV7P5Z1q8fI2PWBZ73jpNIPILmrOBkjUtBKo0UxCPWx-JLBAOiPmdvnmfZSLT8Vf7twO4uIQCxi00M295P0Kce5DfFRVJvRJbbBYrC-3rueye0BHcsP2o9YUaBhduiDrabouFNwoeE4roQkhswebRvXDpRcHy4Kqb7iY-0NsDcCCnQ8TSf78wpDZG8w7hh9BNvVAGrL2AxrWF3AOB1hpT2yGF_ZstNpQwc5cPL-5anRMm4Qa6HjfcQb7itWMuMUWoc3H3bBOoJB5R9EZNRRjhokMmVSQtwduHJQhlXJwd8yFkgTudCB8ecY3BsuE9fgWvNhKYglF0kWXYoOMqxcecLUv2WC7_Frs3I2b70ULYDs42BGXd7HZMzJfkU6wvx08GXbYui73rdX1MfSi6Ik9awQw-IT0oitGgil5CacJDu4r_bxt-okpuqWCmY-A8d39FfroB8qzRcp3kYJ3AklADuu7El0WPhrcEBqjMVHkT46hWs3SkgHngud9-8JM6ShyLpWz9iTqH7Rb1t8VCPJHPnSHs_ZsPQuO9DvyAyA0oC_BcBGIs5TZ0OYOV05-o_EX8sAoJWUFSB_kYfVDpu_7Ta4Yf8U_1uvU0=s320-no?authuser=0",
+
+    },
 ];
 
 module.exports = recipes;
