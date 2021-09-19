@@ -64,6 +64,47 @@ const recipes = [
         imageUrl:"https://1.bp.blogspot.com/COlFqjKL1xPzkBoMS6KlQ0UIbxbM73CC3WPrVZXyOl0gjXZ9kUMuKavCtvWPDIJTD6QEq1-cVrY2_SiMkllThGLKsztOwlqSOt-hy5AHRj3MqCm7NmduJ3YV7P5Z1q8fI2PWBZ73jpNIPILmrOBkjUtBKo0UxCPWx-JLBAOiPmdvnmfZSLT8Vf7twO4uIQCxi00M295P0Kce5DfFRVJvRJbbBYrC-3rueye0BHcsP2o9YUaBhduiDrabouFNwoeE4roQkhswebRvXDpRcHy4Kqb7iY-0NsDcCCnQ8TSf78wpDZG8w7hh9BNvVAGrL2AxrWF3AOB1hpT2yGF_ZstNpQwc5cPL-5anRMm4Qa6HjfcQb7itWMuMUWoc3H3bBOoJB5R9EZNRRjhokMmVSQtwduHJQhlXJwd8yFkgTudCB8ecY3BsuE9fgWvNhKYglF0kWXYoOMqxcecLUv2WC7_Frs3I2b70ULYDs42BGXd7HZMzJfkU6wvx08GXbYui73rdX1MfSi6Ik9awQw-IT0oitGgil5CacJDu4r_bxt-okpuqWCmY-A8d39FfroB8qzRcp3kYJ3AklADuu7El0WPhrcEBqjMVHkT46hWs3SkgHngud9-8JM6ShyLpWz9iTqH7Rb1t8VCPJHPnSHs_ZsPQuO9DvyAyA0oC_BcBGIs5TZ0OYOV05-o_EX8sAoJWUFSB_kYfVDpu_7Ta4Yf8U_1uvU0=s320-no?authuser=0",
 
     },
+    {
+        name: "Медовая заправка",
+        ingredients:"Масло оливковое 195 г, Лимон свежий (сок) 195 г, Мед натуральный 130 г, Соль 1,5 г (по вкусу), Перечная смесь 1,5 г (по вкусу)",
+        description:"Лимон промыть, выжить сок. Лимонный сок соединить с медом, солью и перечной смесью, вымешать погружным блендером. Затем тонкой струйкой ввести оливковое масло, продолжая взбивать. Готовую заправку перелить в тару для хранения, перед использованием взбалтывать",
+        time:"15",
+        imageUrl:"https://avatars.mds.yandex.net/get-zen_doc/1066925/pub_5c31dae58655d100a95f7951_5c31e02987b8d700aa6257c6/scale_1200",
+
+    },
+    {
+        name: "Заправка из меда, лайма и имбиря",
+        ingredients:"Лайм свежий (сок) 60 г, Уксус бальзамический 15 г, Мед натуральный 45 г, Соевый соус 130 г, Имбирь маринованный 45 г,Масло оливковое 230 г",
+        description:"Погрузить все кроме оливкового масла в чашу для блендера. Перебить до однородного состояния. Снова включить блендер. Вливать оливковое масло небольшой струйкой через верхнее отверстие. Готовый соус перелить в удобную емкость. Хранить в холодильнике, перед подачей встряхивать ",
+        time:"10",
+        imageUrl:"https://static.1000.menu/img/content-v2/4a/36/49525/imbir-s-limonom-i-medom-dlya-immuniteta-i-dlya-poxudeniya_1596965341_15_max.jpg",
+
+    },
+    {
+        name: "Коктейль вишневый",
+        ingredients:"Вишня свеже-мороженная 100 г, Сахар 10 г, Мороженное ванильное 100 г, Молоко 100 г",
+        description:"Вишню следует разморозить. Добавить все в блэндр и перебить до однородного состояния",
+        time:"15",
+        imageUrl:"https://i.pinimg.com/originals/d6/37/ce/d637ceee83079ca8dcd2318eeeb2153d.jpg",
+
+    },
+    {
+        name: "Салат Вальдорф",
+        ingredients:"Микс салатов - романо, фрезе, шпинат 200 г, Яблоко крупное 1 шт, Виноград розовый 150 г, Сельдерей 2 стебля, Грецкий орех 80 г, Сыр 150 г, Майонез по вкусу, Йогурт по вкусу, Горчица по вкусу, Соль по вкусу",
+        description:"Для заправки смешайте йогурт, майонез и горчицу. Посолите по вкусу. Яблоко очистите от кожуры и выньте сердцевину,мякоть нарежте тонкими ломтиками. Сельдерей нарежьте ломтиками поперек. Виноград разрежьте на половинки. Сыр расколите на части. Салатный микс смещайте с остальными ингредиентами и выложите на тарелки. Полейте заправкой",
+        time:"15",
+        imageUrl:"https://alimero.ru/uploads/images/20/36/19/2020/03/07/565f88.jpg",
+
+    },
+    {
+        name: "Салат Коул Слоу",
+        ingredients:"Капуста белокочанная 500 г, Морковь 120 г, Майонез по вкусу, Соль по вкусу, Черный молотый перец по вкусу, Петрушка или укроп по вкусу, Горчица дижонская по вкусу, Сок лимона по вкусу",
+        description:"Промыть, достать кочерыжку и нарезать капусту тонкой соломкой. Морковь промыть, почистить и натереть на терке. Добавить остальные ингредиенты по вкусу и хорошо перемешать. Салат готов",
+        time:"20",
+        imageUrl:"https://1.bp.blogspot.com/-PLMC12YESnY/YI0GeXWTjlI/AAAAAAAAROc/LN0tjwlxcqssfdbSPJith7MYH0bxH56MwCLcBGAsYHQ/s320/%25D0%259A%25D0%25BE%25D1%2583%25D0%25BB-%25D0%25A1%25D0%25BB%25D0%25BE%25D1%2583.jpg",
+
+    },
+    
 ];
 
 module.exports = recipes;
